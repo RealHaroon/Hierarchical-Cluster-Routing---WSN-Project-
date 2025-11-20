@@ -693,6 +693,6 @@ SOFTWARE.
 
 **Made with ❤️ for the IoT Community**
 
-**© 2025 [Your Name]. All Rights Reserved.**
+**© 2025 [Haroon Khan]. All Rights Reserved.**
 
 </div>
